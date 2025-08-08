@@ -71,6 +71,10 @@
 </br>
 
 ## 友情链接
+<a href="https://xroute.ai/">
+ <img width="1248" height="158" alt="新建 PPTX 演示文稿 (2)_02(1)" src="https://github.com/user-attachments/assets/a29e2749-a9b3-4ef3-b485-373d5abfb774" />
+</a>
+
 
 - [APIPark](https://apipark.com?utm_source=postcat) - 专业的API服务平台
 
